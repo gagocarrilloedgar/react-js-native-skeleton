@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "react-js-native-skeleton",
+  "author": "Edgar Gago Carrillo",
+  "version": "1.0.0",
+  "description": "[ReactJS](https://reactjs.org) - [React native](https://reactnative.dev) - [Mobx]() - [Typescript]() - [React Navigation]() - [React Hooks] - [LocalStorage and AsyncStorage]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagocarrilloedgar/dashboard-native.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "mobx",
+    "typescript",
+    "react-navigation",
+    "react-hooks",
+    "localstorage",
+    "asyncstorage"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gagocarrilloedgar/dashboard-native/issues"
+  },
+  "homepage": "https://github.com/gagocarrilloedgar/dashboard-native#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
